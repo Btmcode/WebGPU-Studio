@@ -1,0 +1,8 @@
+{
+  "name": "WebGPU Video Studio",
+  "description": "A chat-based dashboard to generate, monitor, and manage AI video tasks with custom aspect ratio parameter support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
